@@ -12,5 +12,4 @@ console.log(madlib("kami", "sama", "dareda"))
 
 
 
-console.log(x)
-let x = 10
+JSON.stringify()
